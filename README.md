@@ -1,4 +1,4 @@
-<![Added image for README](IMG_3585.PNG)>
+![Added image for README](IMG_3585.PNG){width=30%}
 
 ### Hi there 👋
 
