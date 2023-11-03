@@ -10,6 +10,6 @@ Outside the world of IT, you can often find me behind the camera, capturing the 
     </div>
     <div style=flex: 1;">
   <!![Alt Text](path/to/your/IMG_3585.PNG)>
-  <img src="images/IMG_3585.PNG" alt="Sqwuidy" width="100%>
+  <img src="path/to/your/IMG_3585.PNG" alt="Sqwuidy" width="100%>
   </div>
 </div>
