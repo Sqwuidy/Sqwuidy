@@ -9,7 +9,7 @@ Recently, I've been immersing myself in the world of IT by studying for CompTIA'
 Outside the world of IT, you can often find me behind the camera, capturing the energy and moments of live music. I'm eager to connect with fellow tech enthusiasts, learn from one another, and explore the evolving landscape of technology. If you're interested in collaborating, sharing insights, or just having a tech chat, feel free to reach out!
     </div>
     <div style=flex: 1;">
-  <!![Alt Text](path/to/your/IMG_3585.PNG)>
-  <img src="path/to/your/IMG_3585.PNG" alt="Alt Text" width="100%>
+  <!![Alt Text](Sqwuidy/IMG_3585.PNG)>
+  <img src="Sqwuidy/IMG_3585.PNG" alt="Alt Text" width="100%>
   </div>
 </div>
