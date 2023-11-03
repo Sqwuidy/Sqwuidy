@@ -1,4 +1,4 @@
-<img src="Sqwuidy/IMG_3585.PNG" alt="Added image for README" width="30%">
+<img src="IMG_3585.PNG" alt="Added image for README" width="30%">
 
 ### Hi there 👋
 
