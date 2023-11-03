@@ -10,5 +10,6 @@ Outside the world of IT, you can often find me behind the camera, capturing the 
 </div>
 <div style="flex:1;">
 <![Added image for README](IMG_3585.PNG)>
+![Added image for README](IMG_3585.PNG)
 </div>
 </div>
